@@ -1,0 +1,40 @@
+ @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
+html body {
+	margin: 10px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+img {
+	height: 50px;
+	align: left;
+	display: inline;
+}
+
+h3 {
+	display: inline;
+	font-weight: 700;
+}
+
+sup {
+	font-size: 65%;
+	color: rgb(220, 53, 69);
+}
+
+.wrapper {
+	display: -webkit-flex;
+	display: flex;
+	align-items: center;
+	height: 50px;
+	margin-bottom: 20px;
+}
+
+.catLevel {
+	font-size: 75%;
+	color: rgb(0, 123, 255);
+}
+
+.catTitle {
+	color: rgb(40, 167, 69);
+}
