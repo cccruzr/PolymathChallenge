@@ -19,6 +19,6 @@ python categories.py --render 3153
 
 *NOTE: Please make sure ```styles.css``` is located in the same folder as the HTML file to preserve the CSS styling.*
 
-Example:
+Example ([Demo](https://cccruzr.github.io/data/polymath/3153.html)):
 
 ![Imgur](https://i.imgur.com/8yrfAZF.jpg)
